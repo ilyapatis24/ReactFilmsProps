@@ -10,7 +10,8 @@
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "react-scripts": "5.0.1",
-    "web-vitals": "^2.1.4"
+    "web-vitals": "^2.1.4",
+    "shortid": "^2.2.16"
   },
   "scripts": {
     "start": "react-scripts start",
